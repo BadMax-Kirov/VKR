@@ -1,0 +1,18 @@
+https://novainfo.ru/article/10924 - сравнения систем автоматизации
+http://www.ieml-math.narod.ru/lect/MPUR_MAI.pdf - Критерии Саати
+https://www.bibliofond.ru/view.aspx?id=730662 - IP телефония
+https://compress.ru/article.aspx?id=9926 - IP телефония
+https://ru.wikipedia.org/wiki/VoIP-%D1%88%D0%BB%D1%8E%D0%B7 - снижение расходов на связь
+https://dcc.su/articles/what_is_e1/ - Е1 поток
+https://os-info.ru/videonablyudenie/videonablyudenie-v-torgovom-predpriyatii.html-безопасность и видеонаблюдение
+
+
+
+
+
+
+
+
+VoIP-шлюз (Voice over IP-шлюз) — устройство, 
+предназначенное для подключения телефонных аппаратов или офисных АТС к IP-сети 
+для передачи через неё голосового трафика.
