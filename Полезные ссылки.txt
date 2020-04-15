@@ -2,7 +2,7 @@ https://www.prj-exp.ru/patterns/pattern_draft_project.php - "Пояснительная запис
 https://www.swrit.ru/eskiznyj-proekt.html
 http://www.omega.ru/af/afretail.html - схема торговли
 https://olimpiada-rgiis.ru/sleep/organizaciya-i-process-kontrolya-v-torgovom-predpriyatii-organizaciya/
-
+http://www.vevivi.ru/best/Osobennosti-organizatsii-kommercheskoi-deyatelnosti-po-prodazhe-pishchevykh-kontsentratov-v-roznichnom-torgovom-predpriyatii-ref174047.html
 Как правило, на этапе эскизного проектирования определяются: 
 - функции ИС; 
 - функции подсистем, их цели и ожидаемый эффект от внедрения; 
