@@ -5,6 +5,9 @@ https://olimpiada-rgiis.ru/sleep/organizaciya-i-process-kontrolya-v-torgovom-pre
 
 http://www.vevivi.ru/best/Osobennosti-organizatsii-kommercheskoi-deyatelnosti-po-prodazhe-pishchevykh-kontsentratov-v-roznichnom-torgovom-predpriyatii-ref174047.html
 
+1С
+https://presentacii.ru/presentation/metodiki-ispolzovaniya-novyx-vozmozhnostej-konfiguracii-upravlenie-torgovlej
+
 Как правило, на этапе эскизного проектирования определяются: 
 - функции ИС; 
 - функции подсистем, их цели и ожидаемый эффект от внедрения; 
